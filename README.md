@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Muhammad Atta Ul Hasnain</h1>
+<h1 align="center">Hi 👋 I'm MAHasnain</h1>
 <h3 align="center">I’m a full-stack developer driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience.</h3>
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL**
